@@ -5,7 +5,7 @@ Pilgrims crowd desperately around the campfire, casting long shadows into the de
 
 The lonely fire flickers and struggles. It is the night of the dark moon, and the sky is starless.
 
-## Wahda, World Without Stars
+## World Without Stars
 The moonless nights are dark and the world grows colder. Decay dominates the edges of civilization, and at the center of the world, in Alhir-Alhar, scholars desperately seek answers under still oppressive heat. The people of Wahda place all their hopes on the coronation of the new queen of the twin city to turn the fate of the world for the better. The pilgrimage to the Temple of the Sun next year will be the largest Wahda has ever seen.
 
 But this year, the journey is quiet and contemplative. Even in the tents along the path, normally places of joy, light, and celebration, fragments of dark prophecies and rumors are whispered:
