@@ -7,7 +7,7 @@ nav:
   - The World:
       - the-world/index.md
       - Wahda:
-          - the-world/wahda/index.md
+          - the-world\wahda\index.md
           - Locations:
               - locations/index.md
               - Wahda: locations/wahda.md
