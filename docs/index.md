@@ -24,13 +24,6 @@ Due to the setting, various classes and spells are banned or reflavored. These i
   
 The setting focuses on humans. Humans, half-elves, halflings, and gnomes are playable without problems, while more exotic races are a rare sight but can be included. Elves are banned.
 
-## Alhir-Alhar
-The dual desert rose, the jewel of Wahda: twin city, capital of humanity, and essentially the seat of the first son of the sun. Out of fear of fulfilling the prophecy of Wahda’s downfall, Alhir-Alhar has always been ruled only by queens, the daughters of the sun. In Alhir-Alhar, Ossu is especially worshipped, and his priests ensure the observance of law and order. Tributes are collected here from all over the world, princes and kings are legitimized, customs are taught and celebrated, and the glory of Ossu is celebrated.
-
-While Alhir is busy during the day, and discussions from the royal palace and chants from the temples become increasingly deafening with the heat, the night cools all this down, and celebrations rise in the roof gardens and teahouses of Alhar on the other side of the river. Armed with cushions, tea, and hookahs, the inhabitants of the twin city maintain good conversations, admire the moon, and observe the palace of the daughter of the sun, which is never darkened by thousands of candles and torches.
-
-
-
 ## TeWhanga
 TeWhanga glitters like the sea under the sun, where dunes meet water. Climbing one of the thousand white towers adorned with colorful mosaics in the harbor city, one can see for miles into the blue desert of the sea and the yellow desert of the land. Guilds haggle in deep shaded alleys, ships rock in the harbor, caravans arrive and leave the city. The glittering city is the gateway to the world: There is constant movement, trade, and adventure.
 
