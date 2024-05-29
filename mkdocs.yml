@@ -9,25 +9,27 @@ nav:
     - NPCs: npcs.md
 
 theme:
-    name: 'material'
-    features:
-        - navigation.path
-        - navigation.tabs.sticky
+  name: material
+  features:
+    - navigation.instant
+    - navigation.top
+    - content.code.annotate
 
+  palette:
     # Light mode
-    - media: "(prefers-color-scheme: light)"
+    - media: '(prefers-color-scheme: light)'
       scheme: default
-      primary: pink
-      accent: indigo
+      primary: blue grey
+      accent: light blue
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
 
     # Dark mode
-    - media: "(prefers-color-scheme: dark)"
+    - media: '(prefers-color-scheme: dark)'
       scheme: slate
-      primary: indigo
-      accent: blue
+      primary: blue grey
+      accent: light blue
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
