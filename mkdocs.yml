@@ -9,16 +9,16 @@ nav:
       - Wahda:
           - the-world/wahda/index.md
           - Locations:
-              - locations/index.md
-              - Wahda: locations/wahda.md
-              - Alhir-Alhar: locations/alhir-alhar.md
-              - Temple of the Sun: locations/temple-of-the-sun.md
-              - Brin's Forest: locations/brins-forest.md
+              - the-world/wahda/locations/index.md
+              - Wahda: the-world/wahda/locations/wahda.md
+              - Alhir-Alhar: the-world/wahda/locations/alhir-alhar.md
+              - Temple of the Sun: the-world/wahda/locations/temple-of-the-sun.md
+              - Brin's Forest: the-world/wahda/locations/brins-forest.md
       - Badlands:
           - the-world/badlands/index.md
           - Locations:
-              - locations/index.md
-              - Mika: locations/mika.md
+              - the-world/badlands/locations/index.md
+              - Mika: the-world/badlands/locations/locations/mika.md
       - Shadowed Lands:
           - the-world/shadowed-lands/index.md
           - Locations:
