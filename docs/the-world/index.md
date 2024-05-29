@@ -1,1 +1,2 @@
-This is a test index for world description
+## The World
+Wahda is characterized by the namesake vast continent, which in turn is traversed by the eponymous desert. At the northern edge of this desert, Alhir-Alhar shines, the largest city in the world. Crossing the desert southwards, one first encounters the Temple of the Sun halfway. At the end of the journey, south of the desert, one is greeted by the view of TeWhanga, the glittering sea and port city. From there, ships travel to all corners of the world, as far as Rhia and the gold carry travelers: back to Alhir-Alhar, into the Wildlands, the distant jungles and bays of Gahere-Rere, the Northern Principalities, or the Gnome Kingdoms. Wahda is vast and awaits you.

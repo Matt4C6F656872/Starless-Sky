@@ -24,9 +24,6 @@ Due to the setting, various classes and spells are banned or reflavored. These i
   
 The setting focuses on humans. Humans, half-elves, halflings, and gnomes are playable without problems, while more exotic races are a rare sight but can be included. Elves are banned.
 
-## The World
-Wahda is characterized by the namesake vast continent, which in turn is traversed by the eponymous desert. At the northern edge of this desert, Alhir-Alhar shines, the largest city in the world. Crossing the desert southwards, one first encounters the Temple of the Sun halfway. At the end of the journey, south of the desert, one is greeted by the view of TeWhanga, the glittering sea and port city. From there, ships travel to all corners of the world, as far as Rhia and the gold carry travelers: back to Alhir-Alhar, into the Wildlands, the distant jungles and bays of Gahere-Rere, the Northern Principalities, or the Gnome Kingdoms. Wahda is vast and awaits you.
-
 ## Alhir-Alhar
 The dual desert rose, the jewel of Wahda: twin city, capital of humanity, and essentially the seat of the first son of the sun. Out of fear of fulfilling the prophecy of Wahda’s downfall, Alhir-Alhar has always been ruled only by queens, the daughters of the sun. In Alhir-Alhar, Ossu is especially worshipped, and his priests ensure the observance of law and order. Tributes are collected here from all over the world, princes and kings are legitimized, customs are taught and celebrated, and the glory of Ossu is celebrated.
 
