@@ -15,21 +15,21 @@ nav:
               - Temple of the Sun: locations/temple-of-the-sun.md
               - Brin's Forest: locations/brins-forest.md
       - Badlands:
-          - the-world/index.md
+          - the-world/badlands/index.md
           - Locations:
               - locations/index.md
               - Mika: locations/mika.md
       - Shadowed Lands:
-          - the-world/shadowed-lands.md
+          - the-world/shadowed-lands/index.md
           - Locations:
               - locations/index.md
               - Castle: locations/castle.md
       - The Lost Mountains:
-          - the-world/lost-mountains.md
+          - the-world/lost-mountains/index.md
           - Locations:
               - locations/index.md
-              - The Five Pillars: locations/five-pillars.md
-      - Gahere-Rere: the-world/gahere-rere.md
+              - The Five Pillars: locations/five-pillars/index.md
+      - Gahere-Rere: docs/the-world/gahere-rere/index.md
   - The Sun:
       - the-sun/index.md
   - The Moon:
