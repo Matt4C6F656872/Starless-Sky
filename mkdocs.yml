@@ -2,6 +2,11 @@ site_name: Starless Sky
 site_description: A website for information about the world of Starless Sky
 site_author: Matt
 site_url: https://matt4c6f656872.github.io/Starless-Sky/
+nav:
+  - Section:
+      - section/index.md 
+      - Page 1: section/page-1.md
+      - Page 2: section/page-2.md
 
 theme:
   name: material
@@ -9,6 +14,8 @@ theme:
     - navigation.instant
     - navigation.top
     - content.code.annotate
+    - navigation.indexes
+    # In order to link a page to a section, create a new document with the name index.md in the respective folder, and add it to the beginning of your navigation section.
 
   palette:
     # Light mode
