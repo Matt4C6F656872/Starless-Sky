@@ -5,9 +5,9 @@ site_url: https://matt4c6f656872.github.io/Starless-Sky/
 nav:
   - Welcome: index.md # needs to be called index
   - The World:
-      - the-world/index-wahda-world.md 
+      - the-world/index.md 
       - Wahda:
-          - the-world/index.md
+          - wahda/index.md
           - Locations:
               - locations/index.md
               - Wahda: locations/wahda-desert.md
