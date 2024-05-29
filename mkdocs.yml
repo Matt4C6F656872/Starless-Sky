@@ -30,6 +30,10 @@ nav:
               - locations/index.md
               - The Five Pillars: locations/five-pillars.md
       - Gahere-Rere: the-world/gahere-rere.md
+  - The Sun:
+    - the-sun/index.md
+  - The Moon:
+    - the-moon/index.md
   - Religion:
       - religion/index.md 
       - Gods: religion/gods.md
