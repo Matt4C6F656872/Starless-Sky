@@ -3,18 +3,19 @@ site_description: A website for information about the world of Starless Sky
 site_author: Matt
 site_url: https://matt4c6f656872.github.io/Starless-Sky/
 nav:
-  - Welcome: index.md
+  - Welcome: index.md # needs to be called index
   - The World:
-      - the-world/index-wahda-continent.md 
+      - the-world/index-wahda-world.md 
       - Wahda:
-          - the-world/wahda.md
+          - the-world/index.md
           - Locations:
               - locations/index.md
+              - Wahda: locations/wahda-desert.md
               - Alhir-Alhar: locations/alhir-alhar.md
               - Temple of the Sun: locations/temple-of-the-sun.md
               - Brin's Forest: locations/brins-forest.md
       - Badlands:
-          - the-world/badlands.md
+          - the-world/index.md
           - Locations:
               - locations/index.md
               - Mika: locations/mika.md
