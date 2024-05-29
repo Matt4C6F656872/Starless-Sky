@@ -11,12 +11,28 @@ nav:
           - Locations:
               - locations/index.md
               - Alhir-Alhar: locations/alhir-alhar.md
+              - Temple of the Sun: locations/temple-of-the-sun.md
+              - Brin's Forest: locations/brins-forest.md
+      - Badlands:
+          - the-world/badlands.md
+          - Locations:
+              - locations/index.md
+              - Mika: locations/mika.md
+      - Shadowed Lands:
+          - the-world/shadowed-lands.md
+          - Locations:
+              - locations/index.md
+              - Castle: locations/castle.md
+      - The Lost Mountains:
+          - the-world/lost-mountains.md
+          - Locations:
+              - locations/index.md
+              - The Five Pillars: locations/five-pillars.md
       - Gahere-Rere: the-world/gahere-rere.md
   - Religion:
       - religion/index.md 
       - Gods: religion/gods.md
       - Saints: religion/saints.md
-
 
 
 theme:
