@@ -32,7 +32,7 @@ nav:
       - Gahere-Rere: 
           - the-world/gahere-rere/index.md
           - Locations:
-            - locations/index.md
+            - the-world/gahere-rere/locations/index.md
   - The Sun:
       - the-sun/index.md
   - The Moon:
