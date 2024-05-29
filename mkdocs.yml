@@ -6,15 +6,17 @@ nav:
   - Welcome: index.md
   - The World:
       - the-world/index.md 
-      - Wahda: the-world/wahda.md
-        - Locations:
-          - locations/index.md
-          - Alhir-Alhar: locations/alhir-alhar.md
+      - Wahda:
+          - the-world/wahda.md
+          - Locations:
+              - locations/index.md
+              - Alhir-Alhar: locations/alhir-alhar.md
       - Gahere-Rere: the-world/gahere-rere.md
   - Religion:
       - religion/index.md 
       - Gods: religion/gods.md
       - Saints: religion/saints.md
+
 
 
 theme:
