@@ -6,7 +6,8 @@ nav:
   - Welcome: index.md # needs to be called index
   - The World:
       - the-world/index.md
-      - Wahda: the-world/wahda/index.md
+      - Wahda:
+          - the-world/wahda/index.md
           - Locations:
               - locations/index.md
               - Wahda: locations/wahda.md
