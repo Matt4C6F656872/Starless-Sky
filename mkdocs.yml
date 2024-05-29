@@ -3,6 +3,7 @@ site_description: A website for information about the world of Starless Sky
 site_author: Matt
 site_url: https://matt4c6f656872.github.io/Starless-Sky/
 nav:
+  - Welcome: index.md
   - Section:
       - section/index.md 
       - Page 1: section/page-1.md
