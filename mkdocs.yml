@@ -4,7 +4,11 @@ site_author: Matt
 site_url: https://matt4c6f656872.github.io/Starless-Sky/
 nav:
     - Welcome: index.md
-    - Locations: lands.md
+    - The World: world.md
+        - Continents: continents.md
+        - Lands: lands.md
+        - Cities: cities.md
+        - Locations: locations.md
     - Religion: gods.md
     - NPCs: npcs.md
 
