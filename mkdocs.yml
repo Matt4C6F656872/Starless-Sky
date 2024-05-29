@@ -5,7 +5,7 @@ site_url: https://matt4c6f656872.github.io/Starless-Sky/
 nav:
   - Welcome: index.md
   - The World:
-      - the-world/index.md 
+      - the-world/index-wahda-continent.md 
       - Wahda:
           - the-world/wahda.md
           - Locations:
