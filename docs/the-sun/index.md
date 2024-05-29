@@ -5,3 +5,5 @@ The sun shines for all. [[Ossu]] is not merely the god of the sun, he *is* the s
 Without the sun, without Ossu, you would be nothing.
 
 The black sky on moonless nights is a reminder of that undeniable fact.
+
+So it comes as no surprise that every culture on Wahda worships the sun in their own way. The sun shines for all.
