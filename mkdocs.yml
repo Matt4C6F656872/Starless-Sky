@@ -1,8 +1,22 @@
+---
 site_name: Starless Sky
+site_description: A website for information about the world of Starless Sky
+site_author: Matt
+site_url: https://matt4c6f656872.github.io/Starless-Sky/
+nav:
+    - Welcome: index.md
+    - Lands: lands.md
+        - Continents: continents.md
+        - Locations: locations.md
+    - Religion: gods.md
+    - NPCs: npcs.md
 
 theme:
     name: 'material'
     palette:
+    features:
+        - navigation.path
+        - navigation.tabs.sticky
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
