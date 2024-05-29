@@ -32,10 +32,7 @@ The dual desert rose, the jewel of Wahda: twin city, capital of humanity, and es
 
 While Alhir is busy during the day, and discussions from the royal palace and chants from the temples become increasingly deafening with the heat, the night cools all this down, and celebrations rise in the roof gardens and teahouses of Alhar on the other side of the river. Armed with cushions, tea, and hookahs, the inhabitants of the twin city maintain good conversations, admire the moon, and observe the palace of the daughter of the sun, which is never darkened by thousands of candles and torches.
 
-## Wahda (Desert)
-Wahda, the great desert: It stretches from the west of the continent to the east, where the dunes and sand turn into hills and stones, ending in a great mountain range. Scholars argue whether the continent gave the desert its name, or it gave the continent and the world theirs. In the middle of the desert lies the Temple of the Sun, the destination of the Rhilat, the pilgrimage.
 
-But the rest of the desert is far from dead: Oasis cities, traveling merchants on exotic mounts, sometimes even giants descending from the mountains, carrying heavy loads on secret paths. Numerous buried temples and tombs, hidden or lost treasures, bandits, and mysterious phenomena can be found—or find the travelers and adventurers. No one goes into the desert without reason, but there are enough reasons besides the Rhilat to go into the desert or cross it.
 
 ## TeWhanga
 TeWhanga glitters like the sea under the sun, where dunes meet water. Climbing one of the thousand white towers adorned with colorful mosaics in the harbor city, one can see for miles into the blue desert of the sea and the yellow desert of the land. Guilds haggle in deep shaded alleys, ships rock in the harbor, caravans arrive and leave the city. The glittering city is the gateway to the world: There is constant movement, trade, and adventure.
