@@ -1,5 +1,5 @@
 
-| Act 1 | Miklagar                        | Limbo     | 1st circle |
+| Act 1 | [[Miklagar]]                    | Limbo     | 1st circle |
 | ----- | ------------------------------- | --------- | ---------- |
 | Act 2 | [[Temple of the Night Serpent]] | Lust      | 2nd circle |
 | Act 3 | [[Magic Storm]]                 | Gluttony  | 3rd circle |
