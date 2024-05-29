@@ -1,8 +1,9 @@
 # Starless Sky
 
 There is just the sun, the moon and us.
+
 ## In the Darkness Burns a Lonely Fire
-Pilgrims crowd desperately around the light, casting long shadows in the desert. The relentless heat made the journey impossible by day, but on this night, they also cannot move on.
+Pilgrims crowd desperately around the campfire, casting long shadows into the desert night. The relentless heat made the journey impossible by day, but on this night, they also cannot move on.
 
 The lonely fire flickers and struggles. It is the night of the dark moon, and the sky is starless.
 
@@ -11,7 +12,6 @@ The moonless nights are dark and the world grows colder. Decay dominates the edg
 
 But this year, the journey is quiet and contemplative. Even in the tents along the path, normally places of joy, light, and celebration, fragments of dark prophecies and rumors are whispered:
 
-> [!An Ancient Prophecy]
 > The first son of Wahda, broken on the altar of the false god:
 > Alhir-Alhar will burn,
 > Shay will fall,
