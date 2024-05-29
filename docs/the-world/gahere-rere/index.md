@@ -1,0 +1,2 @@
+## Gahere-Rere
+Gahere-Rere is also known as the jungle continent, the original home of the half-elves. However, it is less a continent and more a collection of larger and smaller tropical islands (Gahere) and a vast, dense jungle-covered, and almost unexplored island (Rere). Legends surround the center of Rere, speaking of lights in the sky and treasures beyond imagination. Thus, the coastal cities of Gahere attract adventurers and fortune seekers from all over the world, as well as those who wish to relieve them of the heavy burden of gold coins in various ways.
