@@ -6,8 +6,10 @@ nav:
   - Welcome: index.md # needs to be called index
   - The World:
       - the-world/index.md
-      - Wahda: wahda/index.md
-          - Locations: locations/index.md
+      - Wahda:
+          - wahda/index.md
+          - Locations:
+              - locations/index.md
               - Wahda: locations/wahda.md
               - Alhir-Alhar: locations/alhir-alhar.md
               - Temple of the Sun: locations/temple-of-the-sun.md
@@ -29,14 +31,13 @@ nav:
               - The Five Pillars: locations/five-pillars.md
       - Gahere-Rere: the-world/gahere-rere.md
   - The Sun:
-    - the-sun/index.md
+      - the-sun/index.md
   - The Moon:
-    - the-moon/index.md
+      - the-moon/index.md
   - Religion:
       - religion/index.md 
       - Gods: religion/gods.md
       - Saints: religion/saints.md
-
 
 theme:
   name: material
@@ -88,7 +89,6 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-
   - toc:
       permalink: true
 
@@ -108,4 +108,4 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://unpkg.com/mermaid/dist/mermaid.min.js 
+  - https://unpkg.com/mermaid/dist/mermaid.min.js
