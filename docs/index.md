@@ -1,6 +1,6 @@
 # Starless Sky
 
-![Temple of the Sun](/docs/assets/temple-of-the-sun.png)
+![[temple-of-the-sun.png]]
 
 *Inspiration for the Temple of the Sun.*
 Art by [Philipp A. Urlich](https://urlich.art/projects/Po4kYB?album_id=1460306)
