@@ -1,1 +1,1 @@
-Only a handful of people know of this name found in the archives deep under Alhar.
+Only a handful of people know of this name found in the archives deep under Alhar. It is recorded that The Sunforged has been made saint in a forgotten age, but not much else is known.
