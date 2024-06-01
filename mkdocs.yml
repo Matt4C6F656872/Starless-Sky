@@ -3,7 +3,7 @@ site_description: A website for information about the world of Starless Sky
 site_author: Matt
 site_url: https://matt4c6f656872.github.io/Starless-Sky/
 nav:
-  - Welcome: index.md # needs to be called index
+  - Welcome: index.md
   - The World:
       - Overview: the-world/index.md
       - Wahda:
@@ -20,7 +20,7 @@ nav:
               - Ancient Ruins: the-world/badlands/locations/ancient-ruins.md
       - Shadowed Lands:
           - Overview: the-world/shadowed-lands/index.md
-          - Locations:
+          - Locations: # This should contain specific locations if any
       - The Lost Mountains:
           - Overview: the-world/the-lost-mountains/index.md
           - Locations:
@@ -34,12 +34,12 @@ nav:
   - The Moon:
       - Overview: the-moon/index.md
   - Religion:
-      - Overview: religion/index.md 
+      - Overview: religion/index.md
       - Gods:
           - Akadi: religion/gods/akadi.md
           - Grumma: religion/gods/grumma.md
-          - Ossu: religion/gods/Ossu.md
-          - Shia: religion/gods/Shia.md
+          - Ossu: religion/gods/ossu.md
+          - Shia: religion/gods/shia.md
           - The Black Sky: religion/gods/the-black-sky.md
       - Saints:
           - The Flower of the North: religion/saints/the-flower-of-the-north.md
@@ -60,7 +60,6 @@ nav:
           - She Who Watches the Sky: religion/saints/she-who-watches-the-sky.md
           - They Who Walk the Paths: religion/saints/they-who-walk-the-paths.md
 
-
 theme:
   name: material
   features:
@@ -68,7 +67,6 @@ theme:
     - navigation.top
     - content.code.annotate
     - navigation.indexes
-    # In order to link a page to a section, create a new document with the name index.md in the respective folder, and add it to the beginning of your navigation section.
 
   palette:
     # Light mode
@@ -92,12 +90,8 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
-  # - attr_list
   - pymdownx.arithmatex:
       generic: true
-  # - pymdownx.superfences
-  # - pymdownx.details
-  # - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
   - def_list
@@ -119,7 +113,7 @@ plugins:
   - roamlinks
   - blog
   - rss:
-      match_path: blog/posts/.* 
+      match_path: blog/posts/.*
       date_from_meta:
         as_creation: date
       categories:
