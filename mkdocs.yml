@@ -21,8 +21,6 @@ nav:
         - Ancient Ruins: the-world/badlands/locations/ancient-ruins.md
     - Shadowed Lands:
       - Overview: the-world/shadowed-lands/index.md
-      - Locations:
-        # Add specific locations if any
     - The Lost Mountains:
       - Overview: the-world/the-lost-mountains/index.md
       - Locations:
@@ -31,7 +29,6 @@ nav:
       - Overview: the-world/gahere-rere/index.md
       - Locations:
         - Gahere-Rere Locations: the-world/gahere-rere/locations/index.md
-
   - The Sun:
     - Overview: the-sun/index.md
   - The Moon:
