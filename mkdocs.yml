@@ -5,44 +5,62 @@ site_url: https://matt4c6f656872.github.io/Starless-Sky/
 nav:
   - Welcome: index.md # needs to be called index
   - The World:
-      - the-world/index.md
+      - Overview: the-world/index.md
       - Wahda:
-          - the-world/wahda/index.md
+          - Overview: the-world/wahda/index.md
           - Locations:
-              #- the-world/wahda/locations/index.md
               - Wahda: the-world/wahda/locations/wahda.md
               - Alhir-Alhar: the-world/wahda/locations/alhir-alhar.md
               - Temple of the Sun: the-world/wahda/locations/temple-of-the-sun.md
               - Brin's Forest: the-world/wahda/locations/brins-forest.md
       - Badlands:
-          - the-world/badlands/index.md
+          - Overview: the-world/badlands/index.md
           - Locations:
-              #- the-world/badlands/locations/index.md
-              - Mika: the-world/badlands/locations/locations/mika.md
+              - Nekya: the-world/badlands/locations/nekya.md
       - Shadowed Lands:
-          - the-world/shadowed-lands/index.md
+          - Overview: the-world/shadowed-lands/index.md
           - Locations:
-              #- locations/index.md
-              - Castle: locations/castle.md
+              - Shadowed Lands Locations: the-world/shadowed-lands/locations/index.md
       - The Lost Mountains:
-          - the-world/lost-mountains/index.md
+          - Overview: the-world/the-lost-mountains/index.md
           - Locations:
-              #- locations/index.md
-              - The Five Pillars: locations/five-pillars/index.md
-      - Gahere-Rere: 
-          - the-world/gahere-rere/index.md
+              - The Nine Pillars: the-world/the-lost-mountains/locations/the-nine-pillars.md
+      - Gahere-Rere:
+          - Overview: the-world/gahere-rere/index.md
           - Locations:
-            - the-world/gahere-rere/locations/index.md
+              - Gahere-Rere Locations: the-world/gahere-rere/locations/index.md
   - The Sun:
-      - the-sun/index.md
+      - Overview: the-sun/index.md
   - The Moon:
-      - the-moon/index.md
+      - Overview: the-moon/index.md
   - Religion:
-      - religion/index.md 
-      - Gods: religion/gods.md
+      - Overview: religion/index.md 
+      - Gods:
+          - Akadi: religion/gods/akadi.md
+          - Grumma: religion/gods/grumma.md
+          - Ossu: religion/gods/Ossu.md
+          - Shia: religion/gods/Shia.md
+          - The Black Sky: religion/gods/the-black-sky.md
       - Saints:
-        - The Flower of the North: religion/saints/the-flower-of-the-north.md
-        - He Whose Steps Loosens Stones: religion/saints/he-whose-steps-loosens-stones.md
+          - The Flower of the North: religion/saints/the-flower-of-the-north.md
+          #- The Dead Watcher: religion/saints/the-dead-watcher.md
+          - The Firekeeper: religion/saints/the-firekeeper.md
+          - Hundred Sands: religion/saints/hundred-sands.md
+          - The Living Memory: religion/saints/the-living-memory.md
+          - The Mad Witch of the West: religion/saints/the-mad-witch-of-the-west.md
+          - The Muse of Mires: religion/saints/the-muse-of-mires.md
+          - The Nightmare Hunter: religion/saints/the-nightmare-hunter.md
+          - The Raindancer: religion/saints/the-raindancer.md
+          - The Relic: religion/saints/the-relic.md
+          - The Saint of Storms: religion/saints/the-saint-of-storms.md
+          - The Sivv: religion/saints/the-sivv.md
+          - The Smallfolk King: religion/saints/the-smallfolk-king.md
+          - The Sunforged: religion/saints/the-sunforged.md
+          #- The Warsmith: religion/saints/the-warsmith.md
+          - He Whose Steps Loosens Stones: religion/saints/he-whose-steps-loosens-stones.md
+          - She Who Watches the Sky: religion/saints/she-who-watches-the-sky.md
+          - They Who Walk the Paths: religion/saints/they-who-walk-the-paths.md
+
 
 theme:
   name: material
