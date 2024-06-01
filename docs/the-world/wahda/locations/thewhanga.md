@@ -1,3 +1,9 @@
+## TeWhanga
+
+A huge port city to the south of the great desert.
+
+TeWhanga glitters like the sea under the sun, where dunes meet water. Climbing one of the thousand white towers adorned with colorful mosaics in the harbor city, one can see for miles into the blue desert of the sea and the yellow desert of the land. Guilds haggle in deep shaded alleys, ships rock in the harbor, caravans arrive and leave the city. The glittering city is the gateway to the world: There is constant movement, trade, and adventure.
+
 A small port village at the eastern edge of the Badlands.
 
 # City Name
@@ -44,8 +50,8 @@ A small port village at the eastern edge of the Badlands.
 |--------------------|--------------------------------|
 | **Major Industries** |                              |
 | **Trade**          |                                |
-| - Imports          | Adventuring Gear, food and water|
-| - Exports          | /                              |
+| - Imports          |                                |
+| - Exports          |                                |
 | **Currency**       |                                |
 
 ## Military
@@ -53,12 +59,12 @@ A small port village at the eastern edge of the Badlands.
 | Field              | Details                        |
 |--------------------|--------------------------------|
 | **Defense Forces** |                                |
-| - Army             | Mika City Watch                |
-| - Navy             | Fishwardens                    |
-| - Special Units    | Wyrdwatch                      |
+| - Army             |                                |
+| - Navy             |                                |
+| - Special Units    |                                |
 | **Major Fortifications** |                          |
-| - Fortification 1  | Stormqueen's Gate              |
-| - Fortification 2  | Damned Mountains               |
+| - Fortification 1  |                                |
+| - Fortification 2  |                                |
 
 ## Society and Culture
 
@@ -100,7 +106,7 @@ A small port village at the eastern edge of the Badlands.
 | **Common Sayings/Mottos** |                        |
 | **Legends and Myths** |                             |
 | **Local Cuisine**  |                                |
-| **Notable Laws/Customs** | Upon departure into the heartland, the traveler is declared dead and funeral rites will be spoken.|
+| **Notable Laws/Customs** |                         |
 
 ## Map and Images
 - ![Map](path/to/map.png)
