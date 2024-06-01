@@ -1,1 +1,3 @@
-Index
+Little is known about the snow-covered peaks of the mountains of the north. Treacherous and isolated, they stand guard against the eternal ice at the edge of the world.
+
+Possibly rich in minerals, precious metals and undiscovered wonders, countless expeditions have been started to explore these mountains. While those on land had at least some success in establishing outposts in the cold and hostile environment, fleets sent to the coasts where those mountains meet the icy waters of the Third Sea have all perished in cruel and unnatural storms.

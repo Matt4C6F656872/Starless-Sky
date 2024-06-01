@@ -9,7 +9,7 @@ nav:
       - Wahda:
           - the-world/wahda/index.md
           - Locations:
-              - the-world/wahda/locations/index.md
+              #- the-world/wahda/locations/index.md
               - Wahda: the-world/wahda/locations/wahda.md
               - Alhir-Alhar: the-world/wahda/locations/alhir-alhar.md
               - Temple of the Sun: the-world/wahda/locations/temple-of-the-sun.md
@@ -17,17 +17,17 @@ nav:
       - Badlands:
           - the-world/badlands/index.md
           - Locations:
-              - the-world/badlands/locations/index.md
+              #- the-world/badlands/locations/index.md
               - Mika: the-world/badlands/locations/locations/mika.md
       - Shadowed Lands:
           - the-world/shadowed-lands/index.md
           - Locations:
-              - locations/index.md
+              #- locations/index.md
               - Castle: locations/castle.md
       - The Lost Mountains:
           - the-world/lost-mountains/index.md
           - Locations:
-              - locations/index.md
+              #- locations/index.md
               - The Five Pillars: locations/five-pillars/index.md
       - Gahere-Rere: 
           - the-world/gahere-rere/index.md
@@ -41,6 +41,7 @@ nav:
       - religion/index.md 
       - Gods: religion/gods.md
       - Saints: religion/saints.md
+        - The Flower of the North: religion/saints/the-flower-of-the-north.md
 
 theme:
   name: material
