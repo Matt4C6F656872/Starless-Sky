@@ -3,10 +3,9 @@
 There is just the sun, the moon and us.
 
 ![[temple-of-the-sun.png]]
-
-##[*Inspiration for the Temple of the Sun.*]
-
-##[Art by [Philipp A. Urlich](https://urlich.art/projects/Po4kYB?album_id=1460306)]
+|:--:| 
+| *Inspiration for the Temple of the Sun.* |
+| Art by [Philipp A. Urlich](https://urlich.art/projects/Po4kYB?album_id=1460306) |
 
 
 ## In the dark, a lonely fire burns
