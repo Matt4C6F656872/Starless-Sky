@@ -2,7 +2,7 @@
 
 A huge port city to the south of the great desert.
 
-TeWhanga glitters like the sea under the sun, where dunes meet water. Climbing one of the thousand white towers adorned with colorful mosaics in the harbor city, one can see for miles into the blue desert of the sea and the yellow desert of the land. Guilds haggle in deep shaded alleys, ships rock in the harbor, caravans arrive and leave the city. The glittering city is the gateway to the world: There is constant movement, trade, and adventure.
+TeWhanga glitters like the sea under the sun, where dunes meet water. Climbing one of the thousand white towers adorned with colorful mosaics in the harbor city, one can see for miles. Guilds haggle in deep shaded alleys, ships rock softly in the harbor, caravans arrive and leave the city. The glittering city is the gateway to the world: There is constant movement, trade, and adventure.
 
 A small port village at the eastern edge of the Badlands.
 
