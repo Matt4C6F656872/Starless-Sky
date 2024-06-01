@@ -19,16 +19,11 @@ The moonless nights are dark and the world grows colder. Decay dominates the edg
 
 But this year, the journey is quiet and contemplative. Even in the tents along the path, normally places of joy, light, and celebration, fragments of dark prophecies and rumors are whispered:
 
-> The first son of Wahda, broken on the altar of the false god:
-
-> Alhir-Alhar will burn,
-
-> Shay will fall,
-
-> Raupaso Vura will drown,
-
-> The heart overrun.
-
+> The first son of Wahda, broken on the altar of the false god:  
+> Alhir-Alhar will burn,  
+> Shay will fall,  
+> Raupaso Vura will drown,  
+> The heart overrun.  
 > When the traitor returns.
 
 ## Legends and Undiscovered Places
