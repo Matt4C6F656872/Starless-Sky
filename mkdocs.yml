@@ -43,7 +43,7 @@ nav:
           - The Black Sky: religion/gods/the-black-sky.md
       - Saints:
           - The Flower of the North: religion/saints/the-flower-of-the-north.md
-          #- The Dead Watcher: religion/saints/the-dead-watcher.md
+          - The Dead Watcher: religion/saints/the-dead-watcher.md
           - The Firekeeper: religion/saints/the-firekeeper.md
           - Hundred Sands: religion/saints/hundred-sands.md
           - The Living Memory: religion/saints/the-living-memory.md
@@ -56,7 +56,6 @@ nav:
           - The Sivv: religion/saints/the-sivv.md
           - The Smallfolk King: religion/saints/the-smallfolk-king.md
           - The Sunforged: religion/saints/the-sunforged.md
-          #- The Warsmith: religion/saints/the-warsmith.md
           - He Whose Steps Loosens Stones: religion/saints/he-whose-steps-loosens-stones.md
           - She Who Watches the Sky: religion/saints/she-who-watches-the-sky.md
           - They Who Walk the Paths: religion/saints/they-who-walk-the-paths.md
