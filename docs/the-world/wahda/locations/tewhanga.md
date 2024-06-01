@@ -1,25 +1,22 @@
-## TeWhanga
-
 A huge port city to the south of the great desert.
 
 TeWhanga glitters like the sea under the sun, where dunes meet water. Climbing one of the thousand white towers adorned with colorful mosaics in the harbor city, one can see for miles. Guilds haggle in deep shaded alleys, ships rock softly in the harbor, caravans arrive and leave the city. The glittering city is the gateway to the world: There is constant movement, trade, and adventure.
-
-A small port village at the eastern edge of the Badlands.
-
-# City Name
 
 ## General Information
 
 | Field              | Details       |
 | ------------------ | ------------- |
-| **Continent**      | Badlands      |
-| **Region**         | Eastern Coast |
+| **Continent**      | Wahda         |
+| **Region**         | South         |
 | **Country/Empire** | /             |
 | **Founded**        | Unknown       |
-| **Population**     | 10.000        |
+| **Population**     | 780.000       |
 | **Races (%)**      |               |
-| Humans             | 99            |
-| Other              | 1             |
+| Humans             | 40            |
+| Halflings          | 23            |
+| Gnomes             | 17            |
+| Halfelves          | 15            |
+| Other              | 5             |
 
 ## Geography
 

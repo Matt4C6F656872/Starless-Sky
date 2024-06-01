@@ -3,22 +3,17 @@ The dual desert rose, the jewel of Wahda: twin city, capital of humanity, and es
 
 While Alhir is busy during the day, and discussions from the royal palace and chants from the temples become increasingly deafening with the heat, the night cools all this down, and celebrations rise in the roof gardens and teahouses of Alhar on the other side of the river. Armed with cushions, tea, and hookahs, the inhabitants of the twin city maintain good conversations, admire the moon, and observe the palace of the daughter of the sun, which is never darkened by thousands of candles and torches.
 
-
-A small port village at the eastern edge of the Badlands.
-
-# City Name
-
 ## General Information
 
 | Field              | Details       |
 | ------------------ | ------------- |
-| **Continent**      | Badlands      |
-| **Region**         | Eastern Coast |
+| **Continent**      | Wahda      |
+| **Region**         | Central |
 | **Country/Empire** | /             |
 | **Founded**        | Unknown       |
-| **Population**     | 10.000        |
+| **Population**     | 2.500.000     |
 | **Races (%)**      |               |
-| Humans             | 99            |
+| Humans             | 85            |
 | Other              | 1             |
 
 ## Geography
