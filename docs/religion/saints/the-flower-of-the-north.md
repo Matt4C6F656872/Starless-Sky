@@ -2,4 +2,4 @@
 
 Currently, he is serving his 100 days of solitude atop The Vale and will emerge as a Sharat for a final patrol in the desert before returning to the Far North.
 
-The similarities to the hero of the adventure novels "Kurt von Lichtbad" are striking and a welcome reason for his comrades to teasingly call him "Saint von Lichtbad."
+The similarities to the adventure novel hero "Kurt von Lichtbad" are striking and a welcome reason for his comrades to teasingly call him "Saint von Lichtbad."

@@ -42,7 +42,7 @@ nav:
       - Gods: religion/gods.md
       - Saints:
         - The Flower of the North: religion/saints/the-flower-of-the-north.md
-        - He Whose Steps Loosens Stones: religion\saints\he-whose-steps-loosens-stones.md
+        - He Whose Steps Loosens Stones: religion/saints/he-whose-steps-loosens-stones.md
 
 theme:
   name: material
