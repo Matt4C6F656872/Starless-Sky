@@ -1,4 +1,4 @@
-![[firekeeper]]
+![[firekeeper.png]]
 
 *The Firekeeper. AI art generated with midjourney.*
 
