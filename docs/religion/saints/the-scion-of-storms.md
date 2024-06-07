@@ -1,4 +1,4 @@
-The Saint of Storms is worshipped by those who seek to destroy unjust order.
+The Scion of Storms is worshipped by those who seek to destroy unjust order.
 
 Long ago, an elf by the name of Neriya found herself desperate and close to death. Instead of giving in and accepting her fate, she became the first follower of Shia, the Thousandfold Sea and destroyed all that opposed her.
 
