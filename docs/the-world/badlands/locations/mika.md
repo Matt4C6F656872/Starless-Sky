@@ -1,6 +1,6 @@
-A small port village at the eastern edge of the Badlands.
+# Mika
 
-# City Name
+A small port village at the eastern edge of the Badlands.
 
 ## General Information
 
@@ -12,8 +12,8 @@ A small port village at the eastern edge of the Badlands.
 | **Founded**        | Unknown       |
 | **Population**     | 10.000        |
 | **Races (%)**      |               |
-| Humans             | 99            |
-| Other              | 1             |
+| Humans             | 100           |
+| Other              | 0             |
 
 ## Geography
 
@@ -22,7 +22,7 @@ A small port village at the eastern edge of the Badlands.
 | **Climate**        |                                |
 | **Terrain**        |                                |
 | **Major Landmarks**|                                |
-| - Landmark 1       |                                |
+| - Landmark 1       | Fallen Tower                   |
 | - Landmark 2       |                                |
 | - Landmark 3       |                                |
 | **Natural Resources** |                            |
@@ -32,11 +32,11 @@ A small port village at the eastern edge of the Badlands.
 | Field              | Details                        |
 |--------------------|--------------------------------|
 | **Government Type**|                                |
-| **Current Leader** |                                |
+| **Current Leader** | /                              |
 | **Major Factions/Organizations** |                  |
-| - Faction 1        |                                |
-| - Faction 2        |                                |
-| - Faction 3        |                                |
+| - Faction 1        | Town Guard                     |
+| - Faction 2        | Sea Watch                      |
+| - Faction 3        | Wyrdwatch                      |
 
 ## Economy
 
@@ -44,21 +44,21 @@ A small port village at the eastern edge of the Badlands.
 |--------------------|--------------------------------|
 | **Major Industries** |                              |
 | **Trade**          |                                |
-| - Imports          | Adventuring Gear, food and water|
+| - Imports          | Food and water                 |
 | - Exports          | /                              |
-| **Currency**       |                                |
+| **Currency**       | /                              |
 
 ## Military
 
 | Field              | Details                        |
 |--------------------|--------------------------------|
 | **Defense Forces** |                                |
-| - Army             | Mika City Watch                |
-| - Navy             | Fishwardens                    |
+| - Army             | Mika Town Guard                |
+| - Navy             | Sea Watch                      |
 | - Special Units    | Wyrdwatch                      |
 | **Major Fortifications** |                          |
-| - Fortification 1  | Stormqueen's Gate              |
-| - Fortification 2  | Damned Mountains               |
+| - Fortification 1  | Raven Gate                     |
+| - Fortification 2  | The Wrong Mountains            |
 
 ## Society and Culture
 
