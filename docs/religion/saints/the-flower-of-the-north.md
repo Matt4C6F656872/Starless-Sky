@@ -1,8 +1,13 @@
 "So you are telling me that this man came down from the mountains and took control of his fleeing King's army?"
+
 "Yes, oh Daughter of the Sun."
+
 "And he beat back the invading Lich's forces. How many instructions did this creature’s skeletons have?"
+
 "Between one and two thousand, oh Daughter."
+
 "There is no 'between.' It is either 1024 or 2048. And both would make that thing an Archlich. So he killed it?"
+
 "With his bare hands, my Lady. Permanently."
 
 Meridia, the Daughter of the Sun and regent of the holy city of Alhar, paused for a moment and watched as her spymaster took a deep and nervous bow. 
