@@ -7,5 +7,3 @@ As the centuries bled into one another, his deeds, his sacrifices and his fifty 
 Praise be the Firekeeper. Praise be his gentle flame. Praise be his protection against the devouring dark. Praise be the Firekeeper, Saint of Flames in Dark Places.
 
 ![[firekeeper.png]]
-
-*The Firekeeper. AI art generated with midjourney.*
