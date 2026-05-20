@@ -1,20 +1,27 @@
-"So you are telling me that this man came down from the mountains and took control of his fleeing King's army?"
+"So this man came down from the mountain and took control of his fleeing king's army. Then he beat back the undead forces. And killed the Archlich on his own?" Meridia, blessed regent of the holy city of Alhar, raised an eyebrow. Dust playfully danced in the morning light illuminating the temple.
 
-"Yes, oh Daughter of the Sun."
+"Yes, oh Daughter of the Sun," a man clad in purple robes answered dutifully. He took a deep breath. "Actually, the soldiers described it as ripping the Lich apart with his bare hands."
 
-"And he beat back the invading Lich's forces. How many instructions did this creature’s skeletons have?"
+Meridia tapped a fingernail against the cover of a cheap, brilliantly painted book. The pages were filled with breathless tales of a mountain of a man and highly exaggerated drawings of entirely scant clothing. "Archlich. How much of this is true?"
 
-"Between one and two thousand, oh Daughter."
+Meridia paused as her spymaster took deep and nervous bows. "We are afraid they are written by a rather impressed admirer. Except... the soldiers say he really did rip the Archlich apart. And he wields the Spear Without Equal."
 
-"There is no 'between.' It is either 1024 or 2048. And both would make that thing an Archlich. So he killed it?"
+Meridia stared quietly at the book. A new Saint. In her time, possibly her last act, before her soul returned to the sun. "The Karwan-Bashi?"
 
-"With his bare hands, my Lady. Permanently."
+"They swear they saw a man that moved too fast for someone so big in Jahanara, and ever since no demon has shown there. And the qanats of Khoras flow clean."
 
-Meridia, the Daughter of the Sun and regent of the holy city of Alhar, paused for a moment and watched as her spymaster took a deep and nervous bow. 
-"Bring him to me," she commanded. "I wish to know what he saw on that mountain."
+The Daughter of the Sun turned to a page depicting the man wrestling a frankly impossible snake creature. "What about the Sivv? The last time it was seen was more than five hundred years ago."
 
-"The Flower of the North", also known as the "man closest to the sun", was made a saint by the scholars of Alhar while serving as the guard of the Daughter of the Sun. Even before that, his deeds in the Shadowed Lands were rumored to be reason enough to declare him holy.
+The sun had almost reached its zenith. At this time of the day, Alhar usually fell quiet to honor Ossu, the god of the sun. Sweating and with a nervous gulp, the spymaster cut through the holy silence. "He rode it into battle against the giants. The Saint of Birds seemed to be enjoying itself greatly." He hesitated, then pushed forward. "And the Half-Elves of Rere report he lifted the flagship of the Pirate Lord Xuln out of the waters and smashed it against an Eldertree. And when he was alone on that mountain he heard..."
 
-Currently, he is serving his 100 days of solitude atop The Vale and will emerge as a Sharat for a final patrol in the desert before returning to the Far North.
+"Enough." Meridia closed the book. "I wish to hear that myself. Bring him in and leave us alone."
 
-The similarities to the adventure novel hero "Kurt von Lichtbad" are striking and a welcome reason for his comrades to teasingly call him "Saint von Lichtbad."
+As if daybreak itself had been freed, the double doors crashed open and a mountain of a man entered with the brightest grin on his face.
+
+"Don't tell me you have been reading this, Meridia!", he laughed. "It's a bit embarrassing."
+
+Nobody but the Daughter of the Sun and the Flower of the North knows what words were spoken on that day. But when he emerged from the holiest temple of the holiest of cities, he emerged a Saint.
+
+He is the Man Closest to the Sun! He moves too fast for someone so big. He is too kind for someone so terrifying. His laugh too bright and loud for someone who has faced such horrors. He is the one who wields Sunrise, the Golden Spear without Equal. He slaughtered the 555 headless demons of Jahanara. He rode the Sivv under clear blue skies. He slew Gero the Cruel in his citadel of bones and smashed Waveripper, flagship of the Dread Pirate Xuln, against the Eldertree. He cleansed the qanats of Khoras of the blood of the djinn. And through it all, he laughed.
+
+So do not believe those who said he died protecting pilgrims on their way to the Temple of the Sun. No! He is The Flower of the North, the Living Saint, the Laughing Miracle, the Unending Mountain! He is your friend, and as long as his soul burns your sun will never set.
