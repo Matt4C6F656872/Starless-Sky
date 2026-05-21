@@ -17,4 +17,4 @@ Zara looked at her brother, then out at the glowing surf and the colossal, shado
 
 "...and the thrill," Kareem finished, his eyes twinkling. He leaned forward, setting his cup down. "Wait. This is it. Give me the quill."
 
-Rere is big. You just won't believe how vastly, hugely, mind-bogglingly big it is. You may think it's a long way through the desert to the Temple of the Sun, but it's nothing to Rere’s jungles. When your outlook on the ship calls land because they see canopy on the horizon, you still have about seven days to sail with favorable winds. So why go there at all? Why risk it? Well, let us tell you about the Half-Elves, the beaches, the food, the jungle and the ocean...
+*Rere is big. You just won't believe how vastly, hugely, mind-bogglingly big it is. You may think it's a long way through the desert to the Temple of the Sun, but it's nothing to Rere’s jungles. When your outlook on the ship calls land because they see canopy on the horizon, you still have about seven days to sail with favorable winds. So why go there at all? Why risk it? Well, let us tell you about the Half-Elves, the beaches, the food, the jungle and the ocean...*
